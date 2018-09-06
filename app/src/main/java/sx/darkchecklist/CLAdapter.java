@@ -45,7 +45,6 @@ public class CLAdapter extends ArrayAdapter {
             viewHolder.txtName = convertView.findViewById(R.id.rowTextView);
             viewHolder.checkBox = convertView.findViewById(R.id.rowCheckBox);
 
-
             result = convertView;
             convertView.setTag(viewHolder);
 
