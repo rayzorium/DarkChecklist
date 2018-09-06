@@ -15,7 +15,6 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Switch;
-
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
