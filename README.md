@@ -4,6 +4,7 @@ A highly efficient and minimalist checklist app, focused on ease of use and batt
 There's a lot of checklist apps out there but none that fit my needs, so I make one!
 
 Version 1.0
+
 Functionality:
 * Add tasks
 * Check tasks
