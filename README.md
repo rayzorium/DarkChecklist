@@ -1,7 +1,7 @@
 # Dark Checklist
 A highly efficient and minimalist checklist app, focused on ease of use and battery life. 
 
-There's a lot of checklist apps out there but none that quite fit my needs, so I make one!
+There's a lot of checklist apps out there but none that quite fit my needs, so I made one!
 
 <b>Version 1.0</b>
 
